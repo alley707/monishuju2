@@ -30,6 +30,7 @@ if __name__ == '__main__':
     a = '1'
     b = '2'
     c = '3'
+
     s = data(a)
     p = data(b)
     d = data(c)
